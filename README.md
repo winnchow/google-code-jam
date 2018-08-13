@@ -1,2 +1,2 @@
 # Google code jam
-## To store my solution to Google code jam
+## To store my solutions to Google code jam questions
